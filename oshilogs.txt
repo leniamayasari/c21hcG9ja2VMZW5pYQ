@@ -12,39 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lenia =====
-[1]Lenia       |07:29:57 | 11-11-2026| login OK @leniamayasari | score=3090 rank=2446
-[1]Lenia       |07:29:57 | 11-11-2026| serverTime=2026-11-11T07:29:57.000Z local=2026-11-11T07:29:57.851Z
+[1]Lenia       |07:58:06 | 12-11-2026| login OK @leniamayasari | score=3130 rank=2381
+[1]Lenia       |07:58:06 | 12-11-2026| serverTime=2026-11-12T07:58:06.000Z local=2026-11-12T07:58:06.492Z
 --> [1]Lenia menjalankan: Claim Daily
-[1]Lenia       |07:30:00 | 11-11-2026| daily: OK +10 poin score=3100
---> [1]Lenia menjalankan: Auto All Tasks (3 pending)
-[1]Lenia       |07:30:02 | 11-11-2026| [1/3] b9ffed17 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b9ffed17-fff5-4b42-b4d4-800451524639","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212036286734601 | proof=https://x.com/leniamayasari/status/2120418183913131640
-[1]Lenia       |07:30:02 | 11-11-2026| delay 10s...
-[1]Lenia       |07:30:14 | 11-11-2026| [2/3] 15841ab3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b9ffed17-fff5-4b42-b4d4-800451524639","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212036286734601 | proof=https://x.com/leniamayasari/status/2120418486839886151
-[1]Lenia       |07:30:14 | 11-11-2026| delay 10s...
-[1]Lenia       |07:30:26 | 11-11-2026| [3/3] 099d8d68 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b9ffed17-fff5-4b42-b4d4-800451524639","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212036286734601 | proof=https://x.com/leniamayasari/status/2120418371046820703
-[1]Lenia       |07:30:26 | 11-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lenia       |07:30:28 | 11-11-2026| [1/1] b9ffed17 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b9ffed17-fff5-4b42-b4d4-800451524639","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2120362867346014 | proof=https://x.com/leniamayasari/status/2120418329918543790
+[1]Lenia       |07:58:08 | 12-11-2026| daily: OK +10 poin score=3140
+--> [1]Lenia menjalankan: Auto All Tasks (4 pending)
+[1]Lenia       |07:58:10 | 12-11-2026| [1/4] 85466610 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/leniamayasari/status/2120787726813120644
+[1]Lenia       |07:58:10 | 12-11-2026| delay 10s...
+[1]Lenia       |07:58:23 | 12-11-2026| [2/4] 7c6c4a6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/leniamayasari/status/2120787975766122473
+[1]Lenia       |07:58:23 | 12-11-2026| delay 10s...
+[1]Lenia       |07:58:36 | 12-11-2026| [3/4] fdd13fc3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/leniamayasari/status/2120787908247920476
+[1]Lenia       |07:58:36 | 12-11-2026| delay 10s...
+[1]Lenia       |07:58:48 | 12-11-2026| [4/4] ff2aa141 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/leniamayasari/status/2120787851437155012
+[1]Lenia       |07:58:48 | 12-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lenia       |07:58:50 | 12-11-2026| [1/1] 85466610 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2120732283770650 | proof=https://x.com/leniamayasari/status/2120788047407096944
 --> [1]Lenia menjalankan: Watch Anime
-[1]Lenia       |07:30:29 | 11-11-2026| watch: semua video sudah completed
+[1]Lenia       |07:58:51 | 12-11-2026| watch: semua video sudah completed
 --> [1]Lenia menjalankan: Read Article
-[1]Lenia       |07:30:31 | 11-11-2026| news: 34/34 artikel selesai dibaca
-[1]Lenia       |07:30:32 | 11-11-2026| mint eligibility: {"userId":"2011455658097586178","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@leniamayasari","status":"submitted","revision":"20c916a8-539d-47e3-83f6-e4a2fcbf
-[1]Lenia       |07:30:32 | 11-11-2026| news: semua artikel sudah dibaca
+[1]Lenia       |07:58:53 | 12-11-2026| news: 34/34 artikel selesai dibaca
+[1]Lenia       |07:58:53 | 12-11-2026| mint eligibility: {"userId":"2011455658097586178","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@leniamayasari","status":"submitted","revision":"20c916a8-539d-47e3-83f6-e4a2fcbf
+[1]Lenia       |07:58:53 | 12-11-2026| news: semua artikel sudah dibaca
 --> [1]Lenia menjalankan: Quiz Anime
 --> [1]Lenia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lenia       |07:30:35 | 11-11-2026| music: kedua misi sudah tercapai, stop
-[1]Lenia       |07:30:35 | 11-11-2026| mission music-listens-10: sudah diklaim
-[1]Lenia       |07:30:35 | 11-11-2026| mission music-minutes-30: sudah diklaim
-[1]Lenia       |07:30:35 | 11-11-2026| mission anime-completed-3: sudah diklaim
+[1]Lenia       |07:58:56 | 12-11-2026| music: kedua misi sudah tercapai, stop
+[1]Lenia       |07:58:57 | 12-11-2026| mission music-listens-10: sudah diklaim
+[1]Lenia       |07:58:57 | 12-11-2026| mission music-minutes-30: sudah diklaim
+[1]Lenia       |07:58:57 | 12-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lenia menjalankan: Claim Missions
-[1]Lenia       |07:30:35 | 11-11-2026| mission music-listens-10: sudah diklaim
-[1]Lenia       |07:30:35 | 11-11-2026| mission music-minutes-30: sudah diklaim
-[1]Lenia       |07:30:35 | 11-11-2026| mission anime-completed-3: sudah diklaim
+[1]Lenia       |07:58:57 | 12-11-2026| mission music-listens-10: sudah diklaim
+[1]Lenia       |07:58:57 | 12-11-2026| mission music-minutes-30: sudah diklaim
+[1]Lenia       |07:58:57 | 12-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lenia menjalankan: Check Eligibility
 
 --- eligibility [1]Lenia ---
-  @leniamayasari | score=3090 rank=2446
-  tasks    [#####---------------] 1/4
+  @leniamayasari | score=3130 rank=2381
+  tasks    [#######-------------] 2/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,17 +57,19 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Lenia menjalankan: Read Manga
-[1]Lenia       |07:30:40 | 11-11-2026| manga: 0/13 chapter belum completed
+[1]Lenia       |07:59:01 | 12-11-2026| manga: 0/13 chapter belum completed
 --> [1]Lenia menjalankan: Get Gift
-[1]Lenia       |07:30:42 | 11-11-2026| gift: 3/10 belum diterima
-[1]Lenia       |07:30:43 | 11-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Lenia       |07:30:45 | 11-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Lenia       |07:30:48 | 11-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Lenia       |07:59:03 | 12-11-2026| gift: 5/12 belum diterima
+[1]Lenia       |07:59:06 | 12-11-2026| gift [1/5] OSHI friends on a meadow hill: OK
+[1]Lenia       |07:59:11 | 12-11-2026| gift [2/5] OSHI friends playing on a meadow hill: OK
+[1]Lenia       |07:59:14 | 12-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Lenia       |07:59:17 | 12-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Lenia       |07:59:20 | 12-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Lenia menjalankan: Setup Profile
-[1]Lenia       |07:30:51 | 11-11-2026| profile: bio="https://x.com/leniamayasari" fav=kagura rewardAt=1791806887
-[1]Lenia       |07:30:51 | 11-11-2026| profile: bonus sudah diklaim, skip
+[1]Lenia       |07:59:23 | 12-11-2026| profile: bio="https://x.com/leniamayasari" fav=kagura rewardAt=1791806887
+[1]Lenia       |07:59:23 | 12-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Lenia menjalankan: Bind Wallet
-[1]Lenia       |07:30:51 | 11-11-2026| wallet: sudah terikat Gu6PuheEdD... (solana)
+[1]Lenia       |07:59:23 | 12-11-2026| wallet: sudah terikat Gu6PuheEdD... (solana)
 
 == RINGKASAN ==
-- Lenia: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/10 diterima | profile - | wallet bound | mint req=false open=false
+- Lenia: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 2/12 diterima | profile - | wallet bound | mint req=false open=false
